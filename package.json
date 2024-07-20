@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "prepare": "husky",
-   "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+
   },
   "dependencies": {
     "@azure/msal-browser": "^3.19.1",
